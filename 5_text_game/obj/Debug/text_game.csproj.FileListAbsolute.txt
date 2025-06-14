@@ -1,0 +1,7 @@
+E:\skripts\c#\5_text_game\bin\Debug\test.exe.config
+E:\skripts\c#\5_text_game\bin\Debug\test.exe
+E:\skripts\c#\5_text_game\bin\Debug\test.pdb
+E:\skripts\c#\5_text_game\obj\Debug\text_game.csproj.AssemblyReference.cache
+E:\skripts\c#\5_text_game\obj\Debug\text_game.csproj.CoreCompileInputs.cache
+E:\skripts\c#\5_text_game\obj\Debug\test.exe
+E:\skripts\c#\5_text_game\obj\Debug\test.pdb
