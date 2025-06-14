@@ -1,7 +1,0 @@
-E:\skripts\c#\calc_app\bin\Debug\calc_app.exe.config
-E:\skripts\c#\calc_app\bin\Debug\calc_app.exe
-E:\skripts\c#\calc_app\bin\Debug\calc_app.pdb
-E:\skripts\c#\calc_app\obj\Debug\calc_app.csproj.AssemblyReference.cache
-E:\skripts\c#\calc_app\obj\Debug\calc_app.csproj.CoreCompileInputs.cache
-E:\skripts\c#\calc_app\obj\Debug\calc_app.exe
-E:\skripts\c#\calc_app\obj\Debug\calc_app.pdb
